@@ -1,0 +1,17 @@
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.deps.json
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.runtimeconfig.json
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.dll
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\EsepWebhook.pdb
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Core.dll
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\bin\Release\net8.0\linux-x64\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.AssemblyReference.cache
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfoInputs.cache
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.AssemblyInfo.cs
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.csproj.CoreCompileInputs.cache
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebh.2DAAD0C6.Up2Date
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.dll
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\refint\EsepWebhook.dll
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.pdb
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\EsepWebhook.genruntimeconfig.cache
+D:\ProgrammingStuff\Repos\JS\LambdaTestBed\src\esepwebhook\esepwebhook\src\esepwebhook\obj\Release\net8.0\linux-x64\ref\EsepWebhook.dll
